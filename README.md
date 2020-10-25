@@ -18,4 +18,4 @@ yarn add -D babel-eslint eslint-config-prettier eslint-loader eslint-plugin-pret
 
 Hover over lint errors and press `cmd` + `.` then select `Fix all prettier/prettier problems` or `Fix this prettier/prettier problems`
 
-![Using prettier with VSCode](https://drive.google.com/file/d/1lYvTL6exf9NCPa8ss9wJtxRUctjtiwVT/view?usp=sharing "Prettier")
+![prettier](https://drive.google.com/file/d/1lYvTL6exf9NCPa8ss9wJtxRUctjtiwVT/view?usp=sharing "Prettier")
