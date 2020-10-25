@@ -13,3 +13,7 @@ or
 ```
 yarn add -D babel-eslint eslint-config-prettier eslint-loader eslint-plugin-prettier eslint-plugin-react prettier prettier-eslint
 ```
+
+## Using Prettier
+
+Hover over lint errors and press `cmd` + `.` then select `Fix all prettier/prettier problems` or `Fix this prettier/prettier problems`
